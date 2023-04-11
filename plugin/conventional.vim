@@ -1,5 +1,5 @@
 " conventional.vim - Adds support for conventional commits
-" Maintainer: Mickey Polito <me@displeased.me>
+" Maintainer: Mickey Polito <me@displeased.site>
 " Version: 0.1.0
 " License: MIT
 
